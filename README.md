@@ -1,25 +1,45 @@
 # unicef-practice-repo
-This repository was created to practice the GitHub workflow, including creating issues and pull requests. A simple project that processes and works with data.
+This repository was created to practice the GitHub workflow, including creating issues and pull requests. 
+A simple project that processes and works with data.
 It demonstrates how data can be handled and used in a practical application.
+
 Features
+
 Processes input data
+
 Performs basic data operations
+
 Simple and easy to run
+
+
 Installation
-Clone the repository:
-Bash
+
+1. Clone the repository:
+
+
+
 git clone https://github.com/username/my-project.git
-Navigate to the project folder:
-Bash
+
+2. Navigate to the project folder:
+
+
+
 cd my-project
-Install dependencies (if required):
-Bash
+
+3. Install dependencies (if required):
+
+
+
 npm install
+
 Usage
+
 Run the project with:
-Bash
+
 npm start
+
 The program will start and process the data according to the project logic.
+
 Project Structure
 
 my-project/
@@ -28,9 +48,14 @@ my-project/
 ├── data/         # Data files
 ├── package.json  # Project configuration
 └── README.md
+
 Contributing
+
 Contributions are welcome.
 If you would like to improve the project, feel free to submit a pull request.
+
 License
+
 This project is licensed under the MIT License.
+
 MIT License allows anyone to use, modify, and distribute the software with proper attribution.
